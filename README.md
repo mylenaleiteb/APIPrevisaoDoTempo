@@ -1,4 +1,4 @@
-# APIPrevisaoDoTempo
+# API PrevisaoDoTempo - Bot Previsaquibot - Capixabot
 API desenvolvida para consumo de um bot no 13ºHackaton da Faesa
 
 Para rodar o script baixe a biblioteca do pyhton para se conectar ao Telegram:
